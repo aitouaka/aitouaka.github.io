@@ -4,11 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I’m passionate about cybersecurity, DevSecOps, and hands-on problem solving. I enjoy exploring how systems, applications, and networks behave — from setting up secure environments to simulating attacks and creating better defenses.
+I am an information security enthusiast with a strong interest in pentesting, SOC operations, and DevSecOps. I enjoy exploring systems, identifying vulnerabilities, and implementing practical security solutions, while continuously learning and contributing to safer environments.
 
-My work blends **offensive and defensive security** with **DevSecOps practices**. I automate security testing, integrate tools into CI/CD pipelines, and promote secure-by-design principles. Whether I’m scripting, auditing code, or analyzing infrastructure, my goal is to find practical and sustainable solutions.
-
-I believe in sharing knowledge, building useful tools, and helping teams make security an everyday habit. All testing and demonstrations I describe are conducted in authorized, controlled environments.
 
 ## Socials: 
 
