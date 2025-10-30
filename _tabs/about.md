@@ -14,9 +14,7 @@ I am an information security enthusiast with a strong interest in pentesting, SO
 
 ## Certificates: 
 
-| ![CWES](/images/Certificates/cwes.png){: width="100" } | ![EJPT](/images/Certificates/ejpt.png){: width="100" } | ![CAPT](/images/Certificates/capt.png){: width="100" } | ![SOC](/images/Certificates/soc.png){: width="100" } |
-
-
+| ![CWES](/images/Certificates/cwes.png){: width="100" } | ![EJPT](/images/Certificates/ejpt.png){: width="100" } | ![CAPT](/images/Certificates/capt.png){: width="100" } | ![SOC](/images/Certificates/soc.png){: width="100" } | ![AWS](/images/Certificates/aws.png){: width="100" } |
 
 ---
 
